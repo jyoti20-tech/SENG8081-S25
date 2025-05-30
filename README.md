@@ -7,4 +7,5 @@ A repository for the Major Project for the Case Studies Course in BDSA
 - Jyoti Maske
 - Hiral Parekh
 - Neel Patel
+- Yash Khamar
 
