@@ -6,5 +6,5 @@ A repository for the Major Project for the Case Studies Course in BDSA
 ## Contributors:
 - Jyoti Maske
 - Hiral Parekh
-
+- Neel Patel
 
